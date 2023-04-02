@@ -230,7 +230,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](imgs/output_11_0.png)
     
 
 
@@ -305,7 +305,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](imgs/output_15_0.png)
     
 
 
@@ -380,7 +380,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](imgs/output_19_0.png)
     
 
 
@@ -455,7 +455,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](imgs/output_23_0.png)
     
 
 
@@ -563,7 +563,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](imgs/output_26_0.png)
     
 
 
@@ -671,7 +671,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](imgs/output_29_0.png)
     
 
 
@@ -778,7 +778,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](imgs/output_32_0.png)
     
 
 
@@ -885,7 +885,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](imgs/output_35_0.png)
     
 
 
